@@ -1,0 +1,8 @@
+0 Apple
+1 Apple Bad
+2 Banana
+3 Banana Bad
+4 Orange
+5 Orange Bad
+6 Tomato
+7 Tomato Bad
